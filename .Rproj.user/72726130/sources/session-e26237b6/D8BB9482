@@ -3,7 +3,7 @@
     "path": "C:/git/uagv/team.qmd",
     "project_path": "team.qmd",
     "type": "quarto_markdown",
-    "hash": "242959658",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1700327692750.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "36,21",
-        "scrollLine": "35",
-        "rmdVisualModeLocation": "548:755.8333129882812"
+        "cursorPosition": "7,19",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:3208.333251953125"
     },
     "folds": "",
-    "lastKnownWriteTime": 1700334766,
+    "lastKnownWriteTime": 1700406580,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1700334766510,
+    "last_content_update": 1700406580132,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,5 +1,11 @@
 ---
 title: Team Members
+
+format:
+  html: 
+    fontsize: 1.1em
+    linestretch: 2.0
+    css: styles.css
 ---
 
 ::: {.column width="24%"}
@@ -21,7 +27,7 @@ Sawyer
 :::
 
 ::: {.column width="24%"}
-![](imgs/mia.jpg) 
+![](imgs/mia.jpg)
 
 **Director, Communications & Program**
 
@@ -31,8 +37,7 @@ Hey! My name is Mia, and I am a sophomore at McLean. I sing operatically, and am
 :::
 
 ::: {.column width="24%"}
-
-![](imgs/kareem.jpg) 
+![](imgs/kareem.jpg)
 
 **Director, Finance**
 

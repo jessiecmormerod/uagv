@@ -1,1 +1,9 @@
 /* css styles */
+
+body {
+ font-size: 16px;
+ background-image: url("imgs/bg.jpg");
+ background-size: 100% 14%;
+ background-color: #ffffff;
+ background-repeat: no-repeat;
+}
