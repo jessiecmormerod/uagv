@@ -1,0 +1,6 @@
+[2,"\n"]
+[1,"pandoc \n  to: html\n  output-file: team.html\n  standalone: true\n  title-prefix: UAGV\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: lux\n  title: Team Members\n  fontsize: 1.1em\n  linestretch: 2\n  page-layout: full\n  \n"]
+[1,"Output created: docs\\team.html\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:3538/team.html\n"]
+[1,"GET: /\n"]
+[1,"GET: /team.html\n"]
