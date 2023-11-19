@@ -13,14 +13,14 @@ Club Sponsor Teacher: Ms. Joy S. Korones
 
 ------------------------------------------------------------------------
 
-::: {.column width="17%"}
+::: {.column width="25%"}
 ![](imgs/roman.jpg)
 :::
 
 ::: {.column width="2%"}
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 **Roman S.**
 
 President, Administration
@@ -30,14 +30,14 @@ Hi everyone! My name is Roman and I'm a sophomore. Some of you may know me from 
 
 ------------------------------------------------------------------------
 
-::: {.column width="17%"}
+::: {.column width="25%"}
 ![](imgs/sawyer.jpg)
 :::
 
 ::: {.column width="2%"}
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 **Sawyer R.**
 
 Vice President, Gun Laws & Policies Research
@@ -47,14 +47,14 @@ Hello! My name is Sawyer, and I'm a sophomore. My main interest is music, I play
 
 ------------------------------------------------------------------------
 
-::: {.column width="17%"}
+::: {.column width="25%"}
 ![](imgs/mia.jpg)
 :::
 
 ::: {.column width="2%"}
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 **Mia M.**
 
 Director, Communications & Program
@@ -64,14 +64,14 @@ Hey! My name is Mia, and I am a sophomore at McLean. I sing operatically, and am
 
 ------------------------------------------------------------------------
 
-::: {.column width="17%"}
+::: {.column width="25%"}
 ![](imgs/kareem.jpg)
 :::
 
 ::: {.column width="2%"}
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 **Kareem E.**
 
 Director, Finance
@@ -81,14 +81,14 @@ Hello everyone, my name is Kareem and I am a sophomore. Some things about me, I 
 
 ------------------------------------------------------------------------
 
-::: {.column width="17%"}
+::: {.column width="25%"}
 ![](imgs/Xavier.jpg)
 :::
 
 ::: {.column width="2%"}
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 **Xavier R.**
 
 Director, Partnerships
