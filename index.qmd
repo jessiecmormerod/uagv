@@ -42,7 +42,8 @@ format:
 :::
 
 ::: {.column width="29%"}
-### Dr. Reid's Message on Gun Violence Prevention (September 21, 2023)
+### Dr. Reid's Message on Gun Violence Prevention 
+(September 21, 2023)
 
 Gun violence continues to impact communities across our nation. According to the non-profit Gun Violence Archive, there have already been more than 470 mass shootings across the United States this calendar year. The organization defines a mass shooting as an incident in which four or more people are injured or killed, including in homes and in public places.
 
@@ -92,7 +93,7 @@ Read a summary of the bill: Bipartisan Safer Communities Act One-Pager (senate.g
 
 A comprehensive approach to preventing and responding to firearm injuries is needed, including strategies that engage community and street outreach programs, implement hospital-based violence prevention programs, improve community physical environments, enhance secure storage of firearms, and strengthen social and economic supports. 
 
-Read the full article:  Emergency Department Visits for Firearm Injuries Before and During the COVID-19 Pandemic — United States, January 2019–December 2022 | MMWR (cdc.gov) 
+Read the full article:  Emergency Department Visits for Firearm Injuries Before and During the COVID-19 Pandemic — United States, January 2019–December 2022 | MMWR ([cdc.gov](https://www.cdc.gov)) 
 :::
 
 
@@ -104,6 +105,6 @@ Read the full article:  Emergency Department Visits for Firearm Injuries Before 
 
 Contact [rtcsargent\@gmail.com](mailto:rtcsargent\@gmail.com) to get more information about the club.
 
-[Take action - SIGN UP TO BECOME A MEMBER](https://docs.google.com/forms/d/1mF7tOs2Co0EyDRoxZTn6qvByWGSJXj4PKgztJn40Pl0/edit)
+[Take action - SIGN UP TO BECOME A MEMBER](https://docs.google.com/forms/d/1hyCbeNRCNNCrosXSqtiwSRDveF5lPKic5pXcxUGMpZg/edit?pli=1)
 
 </center>
