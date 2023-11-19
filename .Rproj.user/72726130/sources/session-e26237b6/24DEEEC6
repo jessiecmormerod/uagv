@@ -3,7 +3,7 @@
     "path": "C:/git/uagv/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "0",
+    "hash": "485455392",
     "contents": "",
     "dirty": false,
     "created": 1700404142027.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,1",
+        "cursorPosition": "6,20",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1700407952,
+    "lastKnownWriteTime": 1700409227,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1700407952132,
+    "last_content_update": 1700409227470,
     "read_only": false,
     "read_only_alternatives": []
 }
