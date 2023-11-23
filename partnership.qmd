@@ -1,0 +1,15 @@
+---
+title: Partnership
+
+format:
+  html: 
+    fontsize: 1.1em
+    linestretch: 2.0
+    css: styles.css
+    page-layout: full
+---
+
+Partnership with TeamENOUGH
+
+We're very grateful to [TeamENOUGH](https://www.teamenough.org/) for providing our members with gun violence related resources and trainings to equip us with the knowledge and skills to engage in productive discussions around gun safety. Our club is committed to evidence-based solutions that reduce harm while respecting legal gun ownership. We look forward to collaborating and being part of their events and advocacy to raise awareness. 
+

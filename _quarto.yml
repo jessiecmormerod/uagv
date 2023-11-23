@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - team.qmd
+      - statement.qmd
+      - partnership.qmd
 
 format:
   html:
