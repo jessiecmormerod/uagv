@@ -26,6 +26,10 @@ format:
 
 <p> </p>
 
+<center>[Try our Gun Statistics Quiz](quiz/quiz.html)</center>
+
+<p> </p>
+
 <p> </p>
 
 ::: {.column width="15%"}

@@ -1,0 +1,79 @@
+---
+title: "Webexercises"
+format: 
+  html:
+    css: [webex.css]
+    include-after-body: [webex.js]
+    embed-resources: true 
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(webexercises)
+```
+
+```{r, echo = FALSE, results='asis'}
+# Uncomment to change widget colours:
+#style_widgets(incorrect = "goldenrod", correct = "purple", highlight = "firebrick")
+```
+
+
+
+## Gun Violence Quiz
+
+Thank you for participating in this survey on gun violence prevention. Your input is valuable in understanding perspectives and developing effective strategies. This questionnaire is anonymous, and your responses will be kept confidential.
+
+::: {.webex-check}
+
+```{r, results='asis'}
+opts_1 <- c("Between 1 and 10,000", "Between 10,000 and 30,000", answer = "Between 30,000 and 50,000", "Between 50,000 and 100,000")
+
+cat("How many people die from gun violence each year in America?", longmcq(opts_1))
+
+opts_2 <- c("Between 1 and 100", "Between 100 and 300", answer = "Between 300 and 500", "Between 500 and 1000")
+
+cat("How many mass shootings does America have each year?", longmcq(opts_2))
+
+opts_3 <- c(answer = "Child access prevention laws", "Background checks and licensing", "Open carry laws", "Minimum Age Requirement")
+
+cat("Which laws are most effective at curbing gun violence?", longmcq(opts_3))
+
+opts_4 <- c(answer = "Gun violence", "Sickness/Illness", "Motor Accidents", "Accidental Poisoning")
+
+cat("What is the most common cause of death for Americans 18 years and younger?", longmcq(opts_4))
+
+opts_5 <- c(answer = "Hunguns", "Rifles", "Shotguns", "Alien Blasters")
+
+cat("What type of firearm is used most commonly in incidents of gun violence?", longmcq(opts_5))
+
+opts_6 <- c("Decrease the total number", "No effect on the total number", answer = "Increase the total number.")
+
+cat("What is the effect of shall-issue concealed-carry laws on the total number of firearm homicides?", longmcq(opts_6))
+
+opts_7 <- c("Murder/Mass-shootings", answer = "Suicide", "Accidental")
+
+cat("Are most gun deaths murders, suicides, or accidental shootings?", longmcq(opts_7))
+
+opts_8 <- c("Any age","No age, it is always illegal", "16", answer = "18", "21")
+
+cat("At what age in Virginia is the open carry of a handgun legal without a permit?", longmcq(opts_8))
+
+opts_9 <- c("Between the 1st and 10th", answer = "Between 11th and 20th","Between 21st-30th", "Between 31st and 40th", "Above 41th")
+
+cat("Ranking the states by the strictness of their gun-control policies, where does Virginia rank?", longmcq(opts_9))
+
+opts_10 <- c("Between the 1st and 10th", answer = "Between 11th and 20th","Between 21st-30th", "Between 31st and 40th", "Above 41th")
+
+cat("Ranking the states by the fewest gun deaths per year, where does Virginia rank?", longmcq(opts_10))
+```
+
+:::
+
+Do you want to know more? 
+
+[RAND research report on the effects of Policy on Gun Violence](https://www.rand.org/research/gun-policy.html)
+
+[An infographic on the number of gun-related deaths per capita by state](https://worldpopulationreview.com/state-rankings/gun-deaths-per-capita-by-state)
+
+[An infogrphic on the various laws regarding gun ownership by state](https://sightmark.com/blogs/news/states-ranked-by-how-strict-their-gun-laws-are)
